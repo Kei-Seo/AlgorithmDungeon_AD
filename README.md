@@ -3,7 +3,7 @@
 
 #### 하루에 한 문제씩 풀어서 기여해주세요!
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/67668805/147517356-55649408-c489-433a-81f4-5192c0d3ecc5.png">
+![image](https://user-images.githubusercontent.com/67668805/147517578-ae95fef6-8fe5-4298-a027-c3877c9e9621.png)
 
 
 
