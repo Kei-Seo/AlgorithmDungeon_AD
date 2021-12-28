@@ -1,0 +1,14 @@
+n = int(input())
+for _ in range(n):
+  hotel = []
+  h, w, n = map(int, input().split())
+  room  = n//h + 1 
+  floor = n%h 
+  
+  if floor == 0:
+    floor = h
+    room -= 1
+  a = format(room, '02')
+  
+  print(str(floor)+str(a)) 
+  
