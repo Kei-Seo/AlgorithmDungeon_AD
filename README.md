@@ -3,7 +3,8 @@
 
 #### 하루에 한 문제씩 풀어서 기여해주세요!
 
-![image](https://user-images.githubusercontent.com/67668805/147517327-91b30c8f-9ffc-4b45-8a7c-0dd0fc211c5c.png)
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/67668805/147517356-55649408-c489-433a-81f4-5192c0d3ecc5.png">
+
 
 
 [몬스터 잡으러가기](https://solved.ac/class)  
