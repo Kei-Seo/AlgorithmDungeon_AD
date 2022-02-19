@@ -10,7 +10,9 @@
 [몬스터 잡으러가기](https://solved.ac/class)  
 
 > **지하 1층 (Class 1)**
-> > <img width="100" alt="![class1-gold](https://user-images.githubusercontent.com/67668805/147516382-02972d2b-24ea-400d-b8d3-b2219661f4a0.png)
+> > ![class1-gold](https://user-images.githubusercontent.com/67668805/154790537-49a09cbf-b7fa-4501-9ccb-cb8bc7205eeb.png)
+
 
 > **지하 2층 (Class 2)**
-> > <img width="100" alt="image" src="https://user-images.githubusercontent.com/67668805/147516594-ca9461c3-2616-45a9-8374-23e29973995b.png">
+> > <img width="100" alt="image" src="https://user-images.githubusercontent.com/67668805/154790571-7ca87dc0-cc02-4e37-9294-df6586fe6351.png">
+![class2-gold](https://user-images.githubusercontent.com/67668805/154790571-7ca87dc0-cc02-4e37-9294-df6586fe6351.png)
