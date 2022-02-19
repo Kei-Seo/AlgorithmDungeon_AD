@@ -7,7 +7,7 @@
 
 
 
-*[던전 입구]*(https://solved.ac/class)  
+*[던전 입구](https://solved.ac/class)*  
 
 > **지하 1층 (Class 1)**
 > > <img width="100" alt="image" src="https://user-images.githubusercontent.com/67668805/154790612-bbce47c5-5cd9-48af-b232-2886378cbb31.png">
