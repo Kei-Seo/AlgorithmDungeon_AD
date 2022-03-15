@@ -1,0 +1,23 @@
+
+import sys
+from collections import deque
+n, m = map(int, sys.stdin.readline().split())
+
+coordinate = [[0 for _ in range(n+1)] for _ in range(n+1)]
+dx = [0, 0, 1, -1]
+dy = [1, -1, 0, 0]
+
+for i in range(1, n+1):
+  tmp = list(map(int, sys.stdin.readline().split()))
+  k = 0
+  for j in range(1, n+1):
+    coordinate[i][j] = tmp[j-1] + k + coordinate[i-1][j]
+    k += tmp[j-1]
+
+for _ in range(m):
+  a, b, c, d = map(int, sys.stdin.readline().split())
+  print(coordinate[c][d] - coordinate[a-1][d] - coordinate[c][b-1] + coordinate[a-1][b-1])
+  
+
+
+  
